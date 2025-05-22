@@ -3,8 +3,6 @@
 #include <string.h>
 
 #define MAX 100
-
-// ==== Struktur Data ====
 typedef struct {
     char nama[50];
     char password[50];
